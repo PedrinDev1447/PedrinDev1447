@@ -4,10 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C262E&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+PEDRO+LUCAS;I+study+Software+Engineering+at+UNINTER;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=PedrinDev1447&show_icons=true&count_private=true&hide_border=true&title_color=D9D8D7&icon_color=8C262E&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Lucas github stats"/>
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinDev1447&layout=compact&hide_border=true&title_color=D9D8D7&text_color=c9d1d9&bg_color=0d1117" alt="Languages"/>
-  </div>
+
 
   <br>
 
