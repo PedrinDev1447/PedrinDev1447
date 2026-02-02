@@ -32,7 +32,7 @@
 - ☕ **Daily Fuel:** Coffee + Code + Repeat
 - 🎯 **Focus:** REST APIs, Clean Code & SOLID
 - 🏦 **Current Project:** OpenBank API
-- 📚 **Learning:** Angular & TypeScript
+- 📚 **Learning:** Java & SpringBoot
 - 🎮 **Hobby:** Gaming & Tech
 
 ## 🐍 Minhas Contribuições
