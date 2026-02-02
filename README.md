@@ -1,7 +1,13 @@
 <!-- ============================================== -->
 <!--         CABEÇALHO COM ANIMAÇÃO DE ONDA         -->
 <!-- ============================================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d0d0d,100:ff0040&text=Pedro%20Lucas&fontColor=fff&fontSize=50&animation=fadeIn&fontAlignY=55" />
+</p>
+
+
+
+
 
 <!-- ============================================== -->
 <!--      SEÇÃO PRINCIPAL - TÍTULO ANIMADO          -->
@@ -29,16 +35,14 @@
 - 📚 **Learning:** Angular & TypeScript
 - 🎮 **Hobby:** Gaming & Tech
 
-<br>
+## 🐍 Minhas Contribuições
 
-<!-- ============================================== -->
-<!--           GRÁFICO DE ATIVIDADES                -->
-<!-- ============================================== -->
-## 📈 Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedrinDev1447/PedrinDev1447/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedrinDev1447/PedrinDev1447/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/PedrinDev1447/PedrinDev1447/output/github-snake.svg" />
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedrinDev1447&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&area_color=161b22" alt="Github Activity Graph" />
-
-<br>
 
 <!-- ============================================== -->
 <!--            PROJETO EM DESTAQUE                 -->
