@@ -83,8 +83,8 @@
       <p>Biblioteca open-source em TypeScript para moderação de chats. Implementação de análise de contexto e filtros anti-bypass visando a criação de ambientes seguros com mitigação de falsos positivos.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏦 <a href="https://github.com/PedrinDev1447/openBank-api">OpenBank API</a></h4>
-      <p>Sistema bancário digital escalável focado em segurança. Desenvolvido com <b>Spring Boot, PostgreSQL, Docker Compose e Flyway</b>, suportando JWT, RBAC e operações transacionais (PIX/TED).</p>
+      <h4>📱 <a href="#">Diaum App</a></h4>
+      <p>Aplicativo mobile focado em saúde mental desenvolvido com <b>React Native e TypeScript</b>. Conta com fluxos de autenticação escaláveis via OTP, integração com backend Supabase e um Design System acessível.</p>
     </td>
   </tr>
   <tr>
