@@ -1,139 +1,118 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:58a6ff&text=Pedro%20Lucas&fontColor=fff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" alt="Pedro Lucas Banner" />
+  <!-- Título Minimalista Transparente -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Pedro%20Lucas&height=120&fontSize=55&desc=Desenvolvedor%20Full%20Stack&descAlignY=75&descSize=20" alt="Pedro Lucas" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=22&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!+👋;Junior+Full+Stack+Developer+@+Diaum;Especialista+Java,+Spring+Boot+%26+Angular;Foco+em+Clean+Architecture,+SOLID+e+Clean+Code)](https://git.io/typing-svg)
-
-  <br>
+  <p align="center">
+    <a href="https://pedrolucas.cloud/" target="_blank">Portfólio</a> •
+    <a href="https://www.linkedin.com/in/pedro-lucas-bezerra/" target="_blank">LinkedIn</a> •
+    <a href="mailto:pedrolucas.bezerra14471@gmail.com">Email</a>
+  </p>
   
-  <blockquote><i>"Talk is cheap. Show me the code."</i> — <b>Linus Torvalds</b> Blockquote</blockquote>
+  <br>
+
+  <blockquote>
+    Desenvolvedor Full Stack Júnior movido pela resolução de problemas e focado em construir soluções eficientes. Tenho forte capacidade de trabalho em equipe, adaptabilidade e foco na entrega de valor. Valorizo boas práticas como Clean Architecture, SOLID e Clean Code.
+  </blockquote>
 </div>
 
-<br>
+<br><br>
 
----
+### 🛠️ Competências Técnicas
 
-### 🎮 Sobre Mim
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-171717?style=for-the-badge&logo=openjdk&logoColor=ffffff" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-171717?style=for-the-badge&logo=spring-boot&logoColor=ffffff" alt="Spring" />
+  <img src="https://img.shields.io/badge/PostgreSQL-171717?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Docker-171717?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-171717?style=for-the-badge&logo=amazon-aws&logoColor=ffffff" alt="AWS" />
+  <br>
+  <img src="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_Native-171717?style=for-the-badge&logo=react&logoColor=ffffff" alt="React Native" />
+  <img src="https://img.shields.io/badge/Angular-171717?style=for-the-badge&logo=angular&logoColor=ffffff" alt="Angular" />
+  <img src="https://img.shields.io/badge/Linux-171717?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
+</div>
 
-<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
+<br><br>
+
+<table width="100%" style="border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <h4><b>📌 Informações Gerais</b></h4>
+    <td width="55%" valign="top">
+      <h3>💼 Experiência Profissional</h3>
+      <hr>
+      <b>Desenvolvedor Full Stack Júnior @ Diaum</b><br>
+      <i>Abril 2026 – Atual</i>
       <ul>
-        <li>🎓 <b>Educação:</b> Bacharelado em Engenharia de Software @ <a href="https://www.uninter.com/">UNINTER</a> (Previsão: 2027)</li>
-        <li>💼 <b>Cargo Atual:</b> Junior Full Stack Developer @ <a href="#">Diaum</a></li>
-        <li>📍 <b>Localização:</b> São Paulo, SP - Brasil 🇧🇷</li>
-        <li>🌐 <b>Portfólio:</b> <a href="https://pedrolucas.cloud/">pedrolucas.cloud</a></li>
+        <li>Desenvolvimento e lançamento de aplicativo mobile para saúde mental utilizando <b>React Native e TypeScript</b>.</li>
+        <li>Criação de fluxos de autenticação via OTP, onboarding de 13 etapas e integração direta com backend Supabase.</li>
+        <li>Desenvolvimento de Design System responsivo com componentes reutilizáveis e foco em acessibilidade.</li>
+      </ul><br>
+      <b>Líder de Suporte Técnico @ DemasTheater</b><br>
+      <i>Jan 2017 – Jan 2026</i>
+      <ul>
+        <li>Liderança na execução técnica de projetos de infraestrutura e ponto focal no atendimento ao cliente final.</li>
+        <li>Padronização de processos internos com documentações técnicas, otimizando fluxos de trabalho e onboarding da equipe.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h4><b>🎯 Foco & Desenvolvimento</b></h4>
+    <td width="45%" valign="top">
+      <h3>🎓 Formação & Certificações</h3>
+      <hr>
+      <b>Bacharelado em Engenharia de Software</b><br>
+      <i>UNINTER (2024 – 2027)</i><br><br>
+      <b>Tecnólogo em Análise e Desenvolvimento de Sistemas</b><br>
+      <i>FIAP (2024 - Transferência)</i><br><br>
+      <b>Principais Especializações:</b>
       <ul>
-        <li>☁️ <b>Estudando:</b> Certificação AWS Cloud Practitioner</li>
-        <li>🛠️ <b>Arquitetura:</b> Clean Architecture, SOLID & Clean Code</li>
-        <li>🥋 <b>Hobbies:</b> Muay Thai (Seg, Qua e Sex) & Gaming</li>
-        <li>🕹️ <b>Jogos Atuais:</b> Elden Ring, Valorant, CS2</li>
-      </ul>
+        <li><b>AWS Cloud Practitioner:</b> Escola da Nuvem (300h)</li>
+        <li><b>Java Avançado & Spring Boot:</b> 10X Academy (68h)</li>
+      </ul><br>
+      <b>Idiomas:</b><br>
+      Inglês (Intermediário - B1) • Espanhol (Avançado)
     </td>
   </tr>
 </table>
 
----
+<br>
 
-### 🚀 Stack Tecnológica
-
-<div align="center">
-  📊 <b>Back-end & Core</b><br>
-  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=58a6ff" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=spring-boot&logoColor=58a6ff" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Hibernate-0d1117?style=for-the-badge&logo=Hibernate&logoColor=58a6ff" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=58a6ff" alt="MySQL" />
-  
-  <br><br>
-
-  💻 <b>Front-end</b><br>
-  <img src="https://img.shields.io/badge/Angular_19-0d1117?style=for-the-badge&logo=angular&logoColor=58a6ff" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=58a6ff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=58a6ff" alt="React" />
-
-  <br><br>
-
-  ⚙️ <b>Infraestrutura & Ambiente</b><br>
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58a6ff" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=58a6ff" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=c9d1d9" alt="Linux" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0d1117?style=for-the-badge&logo=intellij-idea&logoColor=c9d1d9" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=c9d1d9" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=c9d1d9" alt="Postman" />
-</div>
-
----
-
-### 🎯 Projetos em Destaque
+### 💻 Projetos em Destaque & Open Source
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px;">
-      <h4>🏦 <a href="https://github.com/PedrinDev1447/openBank-api">OpenBank API</a></h4>
-      <p><i>Sistema bancário digital robusto com foco estrito em segurança, escalabilidade e altíssima performance.</i></p>
-      <ul>
-        <li>🔒 Autenticação JWT & Autorização RBAC</li>
-        <li>💰 Transferências PIX/TED/DOC, Extratos e Pagamentos</li>
-        <li>🛠️ Spring Boot 3.2+, PostgreSQL, Flyway, Docker Compose</li>
-      </ul>
-      <div align="right">
-        <a href="https://github.com/PedrinDev1447/openBank-api">
-          <img src="https://img.shields.io/badge/Ver_Repositório-58a6ff?style=flat-square&logo=github&logoColor=0d1117" alt="Repo OpenBank" />
-        </a>
-      </div>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="#">ToxiBR</a> (Open Source)</h4>
+      <p>Biblioteca open-source em TypeScript para moderação de chats. Implementação de análise de contexto e filtros anti-bypass visando a criação de ambientes seguros com mitigação de falsos positivos.</p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px;">
-      <h4>⛪ <a href="#">VidaChurch - Gestão de Comunidade</a></h4>
-      <p><i>API RESTful corporativa para controle e administração de membros, eventos e fluxo organizacional local.</i></p>
-      <ul>
-        <li>👥 Cadastro segmentado e controle de permissões</li>
-        <li>📅 Gestão de cronogramas e eventos comunitários</li>
-        <li>🛠️ Spring Boot, JPA/Hibernate, Banco de dados containerizado</li>
-      </ul>
-      <div align="right">
-        <img src="https://img.shields.io/badge/Ambiente-Containerizado-38ef7d?style=flat-square" alt="Status" />
-      </div>
+    <td width="50%" valign="top">
+      <h4>🏦 <a href="https://github.com/PedrinDev1447/openBank-api">OpenBank API</a></h4>
+      <p>Sistema bancário digital escalável focado em segurança. Desenvolvido com <b>Spring Boot, PostgreSQL, Docker Compose e Flyway</b>, suportando JWT, RBAC e operações transacionais (PIX/TED).</p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top" style="border: 1px solid #21262d; border-radius: 6px; padding: 15px;">
-      <h4>💻 <a href="#">MyCMD — Contribuição Open Source</a></h4>
-      <p>Contribuição validada e chancelada durante o <b>Hacktoberfest 2024</b> para uma CLI (Interface de Linha de Comando) customizada escrita inteiramente em Java. Foco em refatoração de código, resolução de bugs estruturais e expansão do ecossistema de comandos internos.</p>
-      <img src="https://img.shields.io/badge/Hacktoberfest-2024_Validated-ffa500?style=flat-square&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest" />
+    <td width="50%" valign="top">
+      <h4>⚙️ <a href="#">MyCMD</a> (Hacktoberfest 2024)</h4>
+      <p>Contribuição open-source validada para uma CLI customizada em Java. Atuação focada em resolução de bugs estruturais, expansão de comandos internos e melhorias de usabilidade.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://pedrolucas.cloud/">Portfólio Pessoal</a></h4>
+      <p>Desenvolvimento Front-end do portfólio oficial utilizando <b>Angular 19, TypeScript e SCSS</b> com deploy via Hostinger e Apache.</p>
     </td>
   </tr>
 </table>
 
----
+<br><br>
 
-
-
-### 🌐 Conecte-se Comigo
+### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-lucas-bezerra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" />
-  </a>
-  <a href="https://pedrolucas.cloud/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=globe&logoColor=58a6ff" alt="Portfolio" />
-  </a>
-  <a href="https://www.youtube.com/@PedroLucas-ps1gc/videos" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=58a6ff" alt="YouTube" />
-  </a>
-  <a href="mailto:pedrolucas.bezerra14471@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Gmail" />
-  </a>
+  <!-- Uso de bg_color=00000000 para fundos completamente transparentes e integrados -->
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedrinDev1447&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=9ca3af&include_all_commits=true&count_private=true&v=2026" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedrinDev1447&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&langs_count=6&v=2026" alt="Top Languages"/>
 </div>
-
-<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PedrinDev1447&color=58a6ff&style=for-the-badge&label=VISITAS&v=2026" alt="Views Counter" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedrinDev1447/PedrinDev1447/output/github-snake-dark.svg?v=2026" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedrinDev1447/PedrinDev1447/output/github-snake.svg?v=2026" />
+    <img alt="Histórico de Contribuições" src="https://raw.githubusercontent.com/PedrinDev1447/PedrinDev1447/output/github-snake.svg?v=2026" width="85%" />
+  </picture>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer"/>
