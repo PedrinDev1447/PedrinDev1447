@@ -2,17 +2,17 @@
 
 # Pedro Lucas
 
-**Desenvolvedor Full Stack** &nbsp;Â·&nbsp; Java + Spring &nbsp;Â·&nbsp; TypeScript + React Native
+**Desenvolvedor Full Stack** &nbsp;&middot;&nbsp; Java + Spring &nbsp;&middot;&nbsp; TypeScript + React Native
 
-[PortfÃ³lio](https://pedrolucas.cloud/) &nbsp;Â·&nbsp; [LinkedIn](https://www.linkedin.com/in/pedro-lucas-bezerra/) &nbsp;Â·&nbsp; [Email](mailto:pedrolucas.bezerra14471@gmail.com)
+[Portf&oacute;lio](https://pedrolucas.cloud/) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/pedro-lucas-bezerra/) &nbsp;&middot;&nbsp; [Email](mailto:pedrolucas.bezerra14471@gmail.com)
 
 </div>
 
 <br>
 
-Desenvolvedor Full Stack JÃºnior movido pela resoluÃ§Ã£o de problemas e focado em construir soluÃ§Ãµes eficientes.
+Desenvolvedor Full Stack J&uacute;nior movido pela resolu&ccedil;&atilde;o de problemas e focado em construir solu&ccedil;&otilde;es eficientes.
 Forte capacidade de trabalho em equipe, adaptabilidade e foco na entrega de valor.
-Boas prÃ¡ticas em primeiro lugar: **Clean Architecture**, **SOLID**, **Clean Code**.
+Boas pr&aacute;ticas em primeiro lugar: **Clean Architecture**, **SOLID**, **Clean Code**.
 
 <br>
 
@@ -33,42 +33,42 @@ Boas prÃ¡ticas em primeiro lugar: **Clean Architecture**, **SOLID**, **Clean C
 
 <br>
 
-## ExperiÃªncia
+## Experi&ecirc;ncia
 
-**Desenvolvedor Full Stack JÃºnior** â€” Diaum Â· *Abr 2026 â€“ Atual*
+**Desenvolvedor Full Stack J&uacute;nior** &mdash; Diaum &middot; *Abr 2026 &ndash; Atual*
 
-- App mobile de saÃºde mental em **React Native + TypeScript**, do desenvolvimento ao lanÃ§amento.
-- AutenticaÃ§Ã£o via OTP, onboarding de 13 etapas e integraÃ§Ã£o direta com backend Supabase.
-- Design System responsivo com componentes reutilizÃ¡veis e foco em acessibilidade.
+- App mobile de sa&uacute;de mental em **React Native + TypeScript**, do desenvolvimento ao lan&ccedil;amento.
+- Autentica&ccedil;&atilde;o via OTP, onboarding de 13 etapas e integra&ccedil;&atilde;o direta com backend Supabase.
+- Design System responsivo com componentes reutiliz&aacute;veis e foco em acessibilidade.
 
-**LÃ­der de Suporte TÃ©cnico** â€” DemasTheater Â· *Jan 2017 â€“ Jan 2026*
+**L&iacute;der de Suporte T&eacute;cnico** &mdash; DemasTheater &middot; *Jan 2017 &ndash; Jan 2026*
 
-- LideranÃ§a na execuÃ§Ã£o tÃ©cnica de projetos de infraestrutura e ponto focal do cliente final.
-- PadronizaÃ§Ã£o de processos com documentaÃ§Ã£o tÃ©cnica, otimizando fluxos e onboarding da equipe.
+- Lideran&ccedil;a na execu&ccedil;&atilde;o t&eacute;cnica de projetos de infraestrutura e ponto focal do cliente final.
+- Padroniza&ccedil;&atilde;o de processos com documenta&ccedil;&atilde;o t&eacute;cnica, otimizando fluxos e onboarding da equipe.
 
 <br>
 
-## FormaÃ§Ã£o
+## Forma&ccedil;&atilde;o
 
-**Bacharelado em Engenharia de Software** â€” UNINTER Â· *2024 â€“ 2027*
-**AnÃ¡lise e Desenvolvimento de Sistemas** â€” FIAP Â· *2024, transferÃªncia*
+**Bacharelado em Engenharia de Software** &mdash; UNINTER &middot; *2024 &ndash; 2027*
+**An&aacute;lise e Desenvolvimento de Sistemas** &mdash; FIAP &middot; *2024, transfer&ecirc;ncia*
 
-`AWS Cloud Practitioner` Escola da Nuvem, 300h &nbsp; `Java AvanÃ§ado & Spring Boot` 10X Academy, 68h
+`AWS Cloud Practitioner` Escola da Nuvem, 300h &nbsp; `Java Avan&ccedil;ado & Spring Boot` 10X Academy, 68h
 
-InglÃªs B1 &nbsp;Â·&nbsp; Espanhol avanÃ§ado
+Ingl&ecirc;s B1 &nbsp;&middot;&nbsp; Espanhol avan&ccedil;ado
 
 <br>
 
 ## Projetos
 
-**[ProdCore JP](https://github.com/JunioGabriell/gestao-de-sapateiros)** â€” sistema de gestÃ£o industrial para fÃ¡bricas de calÃ§ados: ficha tÃ©cnica (BOM), custeio de produÃ§Ã£o e precificaÃ§Ã£o por markup. MonÃ³lito modular em **Java 21 + Spring Boot 3.5** com Clean Architecture (use cases, ports & adapters), PostgreSQL + Flyway, testes de integraÃ§Ã£o com Testcontainers e CI no GitHub Actions. SPA em **React 19 + TypeScript**, Vite, Tailwind 4 e shadcn/ui.
+**[ProdCore JP](https://github.com/JunioGabriell/gestao-de-sapateiros)** &mdash; sistema de gest&atilde;o industrial para f&aacute;bricas de cal&ccedil;ados: ficha t&eacute;cnica (BOM), custeio de produ&ccedil;&atilde;o e precifica&ccedil;&atilde;o por markup. Mon&oacute;lito modular em **Java 21 + Spring Boot 3.5** com Clean Architecture (use cases, ports & adapters), PostgreSQL + Flyway, testes de integra&ccedil;&atilde;o com Testcontainers e CI no GitHub Actions. SPA em **React 19 + TypeScript**, Vite, Tailwind 4 e shadcn/ui.
 
 `Java 21` `Spring Boot` `PostgreSQL` `Flyway` `React 19` `Tailwind 4` `Testcontainers`
 
 | | |
 |:--|:--|
-| **[ToxiBR](#)** <br> Biblioteca open-source em TypeScript para moderaÃ§Ã£o de chats: anÃ¡lise de contexto e filtros anti-bypass com mitigaÃ§Ã£o de falsos positivos. | **[Diaum App](#)** <br> App de saÃºde mental em React Native + TypeScript, com autenticaÃ§Ã£o OTP, backend Supabase e Design System acessÃ­vel. |
-| **[MyCMD](#)** <br> ContribuiÃ§Ã£o validada no Hacktoberfest 2024 a uma CLI em Java: bugs estruturais, novos comandos e usabilidade. | **[PortfÃ³lio](https://pedrolucas.cloud/)** <br> Front-end em Angular 19, TypeScript e SCSS, com deploy via Hostinger e Apache. |
+| **[ToxiBR](#)** <br> Biblioteca open-source em TypeScript para modera&ccedil;&atilde;o de chats: an&aacute;lise de contexto e filtros anti-bypass com mitiga&ccedil;&atilde;o de falsos positivos. | **[Diaum App](#)** <br> App de sa&uacute;de mental em React Native + TypeScript, com autentica&ccedil;&atilde;o OTP, backend Supabase e Design System acess&iacute;vel. |
+| **[MyCMD](#)** <br> Contribui&ccedil;&atilde;o validada no Hacktoberfest 2024 a uma CLI em Java: bugs estruturais, novos comandos e usabilidade. | **[Portf&oacute;lio](https://pedrolucas.cloud/)** <br> Front-end em Angular 19, TypeScript e SCSS, com deploy via Hostinger e Apache. |
 
 <br>
 
@@ -80,5 +80,5 @@ InglÃªs B1 &nbsp;Â·&nbsp; Espanhol avanÃ§ado
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-customize.svg" alt="CalendÃ¡rio de contribuiÃ§Ãµes 3D" width="100%" />
+  <img src="./profile-3d-contrib/profile-customize.svg" alt="Calend&aacute;rio de contribui&ccedil;&otilde;es 3D" width="100%" />
 </div>
