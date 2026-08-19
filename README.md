@@ -1,8 +1,6 @@
 <div align="center">
 
-# Pedro Lucas
-
-**Desenvolvedor Full Stack** &nbsp;&middot;&nbsp; Java + Spring &nbsp;&middot;&nbsp; TypeScript + React Native
+<img src="./assets/header.png" alt="Pedro Lucas &mdash; Desenvolvedor Full Stack" width="100%" />
 
 [Portf&oacute;lio](https://pedrolucas.cloud/) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/pedro-lucas-bezerra/) &nbsp;&middot;&nbsp; [Email](mailto:pedrolucas.bezerra14471@gmail.com)
 
@@ -18,18 +16,7 @@ Boas pr&aacute;ticas em primeiro lugar: **Clean Architecture**, **SOLID**, **Cle
 
 ## Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-08060D?style=flat-square&logo=openjdk&logoColor=8B5CF6&labelColor=08060D" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-08060D?style=flat-square&logo=springboot&logoColor=8B5CF6&labelColor=08060D" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-08060D?style=flat-square&logo=postgresql&logoColor=8B5CF6&labelColor=08060D" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-08060D?style=flat-square&logo=docker&logoColor=8B5CF6&labelColor=08060D" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-08060D?style=flat-square&logo=amazonwebservices&logoColor=8B5CF6&labelColor=08060D" alt="AWS" />
-  <img src="https://img.shields.io/badge/TypeScript-08060D?style=flat-square&logo=typescript&logoColor=8B5CF6&labelColor=08060D" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React_Native-08060D?style=flat-square&logo=react&logoColor=8B5CF6&labelColor=08060D" alt="React Native" />
-  <img src="https://img.shields.io/badge/Angular-08060D?style=flat-square&logo=angular&logoColor=8B5CF6&labelColor=08060D" alt="Angular" />
-  <img src="https://img.shields.io/badge/Linux-08060D?style=flat-square&logo=linux&logoColor=8B5CF6&labelColor=08060D" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-08060D?style=flat-square&logo=git&logoColor=8B5CF6&labelColor=08060D" alt="Git" />
-</p>
+<img src="./assets/stack.png" alt="Java, Spring Boot, PostgreSQL, Docker, AWS, TypeScript, React Native, Angular, Linux, Git" width="100%" />
 
 <br>
 
@@ -50,10 +37,10 @@ Boas pr&aacute;ticas em primeiro lugar: **Clean Architecture**, **SOLID**, **Cle
 
 ## Forma&ccedil;&atilde;o
 
-**Bacharelado em Engenharia de Software** &mdash; UNINTER &middot; *2024 &ndash; 2027*
+**Bacharelado em Engenharia de Software** &mdash; UNINTER &middot; *2024 &ndash; 2027*<br>
 **An&aacute;lise e Desenvolvimento de Sistemas** &mdash; FIAP &middot; *2024, transfer&ecirc;ncia*
 
-`AWS Cloud Practitioner` Escola da Nuvem, 300h &nbsp; `Java Avan&ccedil;ado & Spring Boot` 10X Academy, 68h
+`AWS Cloud Practitioner` Escola da Nuvem, 300h &nbsp; `Java + Spring Boot` 10X Academy, 68h
 
 Ingl&ecirc;s B1 &nbsp;&middot;&nbsp; Espanhol avan&ccedil;ado
 
@@ -61,9 +48,7 @@ Ingl&ecirc;s B1 &nbsp;&middot;&nbsp; Espanhol avan&ccedil;ado
 
 ## Projetos
 
-**[ProdCore JP](https://github.com/JunioGabriell/gestao-de-sapateiros)** &mdash; sistema de gest&atilde;o industrial para f&aacute;bricas de cal&ccedil;ados: ficha t&eacute;cnica (BOM), custeio de produ&ccedil;&atilde;o e precifica&ccedil;&atilde;o por markup. Mon&oacute;lito modular em **Java 21 + Spring Boot 3.5** com Clean Architecture (use cases, ports & adapters), PostgreSQL + Flyway, testes de integra&ccedil;&atilde;o com Testcontainers e CI no GitHub Actions. SPA em **React 19 + TypeScript**, Vite, Tailwind 4 e shadcn/ui.
-
-`Java 21` `Spring Boot` `PostgreSQL` `Flyway` `React 19` `Tailwind 4` `Testcontainers`
+<a href="https://github.com/JunioGabriell/gestao-de-sapateiros"><img src="./assets/prodcore.png" alt="ProdCore JP &mdash; sistema de gest&atilde;o industrial para f&aacute;bricas de cal&ccedil;ados" width="100%" /></a>
 
 | | |
 |:--|:--|
